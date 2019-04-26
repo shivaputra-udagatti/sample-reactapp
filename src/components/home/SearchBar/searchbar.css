@@ -1,0 +1,27 @@
+.searchbarwrapper{
+    width: 100%;
+    margin: auto;
+    margin-top: 2%;
+}
+.searchbarwrapper input {
+    width: 50%;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 0 10px;
+    border: 1px solid lightseagreen;
+}
+.searchbar {
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}
+.searchbar button {
+    background: none;
+    border: none;
+}
+.searchbar button img {
+    width: 25px;
+    padding: 2px;
+}
+
